@@ -2,7 +2,7 @@
 
 This project presents a detailed financial analysis dashboard for **Advanced Micro Devices (AMD) Inc.**, covering quarterly data from **Q1 2020 to Q2 2024**. The dashboard enables insights into AMD’s revenue, profitability, segment performance, and financial health through interactive Power BI visualizations, backed by Python-based data extraction from original financial PDFs.
 
-![AMD Dashboard Preview]([./amd_dashboard.png](https://github.com/mkaran02/AMD-Inc-Financial-Dashboard/blob/main/Financial_Analysis_Of_AMD.inc.png))
+![AMD Dashboard Preview](./amd_dashboard.png(https://github.com/mkaran02/AMD-Inc-Financial-Dashboard/blob/main/Financial_Analysis_Of_AMD.inc.png))
 
 ---
 
